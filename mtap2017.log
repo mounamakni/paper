@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.16)  28 MAR 2017 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.16)  30 JUN 2017 01:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,91 +306,130 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 72.
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<img/spam1.jpg, id=12, 321.2pt x 349.305pt>
+<img/feature.jpg, id=12, 631.60968pt x 184.43906pt>
+File: img/feature.jpg Graphic file (type jpg)
+ <use img/feature.jpg>
+Package pdftex.def Info: img/feature.jpg used on input line 106.
+(pdftex.def)             Requested size: 227.62204pt x 66.46835pt.
+
+
+Package caption Warning: \label without proper \caption on input line 107.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `sift' on page 2 undefined on input line 111.
+
+<img/bow.jpg, id=13, 369.63094pt x 78.2925pt>
+File: img/bow.jpg Graphic file (type jpg)
+ <use img/bow.jpg>
+Package pdftex.def Info: img/bow.jpg used on input line 116.
+(pdftex.def)             Requested size: 227.62204pt x 48.2135pt.
+
+
+Package caption Warning: \label without proper \caption on input line 126.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `hist' on page 2 undefined on input line 121.
+
+<img/classify.jpg, id=14, 640.64343pt x 169.38281pt>
+File: img/classify.jpg Graphic file (type jpg)
+ <use img/classify.jpg>
+Package pdftex.def Info: img/classify.jpg used on input line 125.
+(pdftex.def)             Requested size: 312.9803pt x 82.75017pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./img/feature.jpg> <./img/bow.jpg>]
+<img/spam1.jpg, id=18, 321.2pt x 349.305pt>
 File: img/spam1.jpg Graphic file (type jpg)
  <use img/spam1.jpg>
-Package pdftex.def Info: img/spam1.jpg used on input line 107.
+Package pdftex.def Info: img/spam1.jpg used on input line 139.
 (pdftex.def)             Requested size: 65.04263pt x 65.04147pt.
 
-<img/spam2.jpg, id=13, 614.295pt x 614.295pt>
+<img/spam2.jpg, id=19, 614.295pt x 614.295pt>
 File: img/spam2.jpg Graphic file (type jpg)
  <use img/spam2.jpg>
-Package pdftex.def Info: img/spam2.jpg used on input line 108.
+Package pdftex.def Info: img/spam2.jpg used on input line 140.
 (pdftex.def)             Requested size: 65.04184pt x 65.04184pt.
 
-<img/spam3.jpg, id=14, 614.295pt x 614.295pt>
+<img/spam3.jpg, id=20, 614.295pt x 614.295pt>
 File: img/spam3.jpg Graphic file (type jpg)
  <use img/spam3.jpg>
-Package pdftex.def Info: img/spam3.jpg used on input line 109.
+Package pdftex.def Info: img/spam3.jpg used on input line 141.
 (pdftex.def)             Requested size: 65.04184pt x 65.04184pt.
 
-<img/spam4.jpg, id=15, 614.295pt x 614.295pt>
+<img/spam4.jpg, id=21, 614.295pt x 614.295pt>
 File: img/spam4.jpg Graphic file (type jpg)
  <use img/spam4.jpg>
-Package pdftex.def Info: img/spam4.jpg used on input line 110.
+Package pdftex.def Info: img/spam4.jpg used on input line 142.
 (pdftex.def)             Requested size: 65.04184pt x 65.04184pt.
 
-<img/spam5.jpg, id=16, 321.2pt x 321.2pt>
+<img/spam5.jpg, id=22, 321.2pt x 321.2pt>
 File: img/spam5.jpg Graphic file (type jpg)
  <use img/spam5.jpg>
-Package pdftex.def Info: img/spam5.jpg used on input line 111.
+Package pdftex.def Info: img/spam5.jpg used on input line 143.
 (pdftex.def)             Requested size: 65.04263pt x 65.04263pt.
 
-<img/spam6.jpg, id=17, 642.4pt x 642.4pt>
+<img/spam6.jpg, id=23, 642.4pt x 642.4pt>
 File: img/spam6.jpg Graphic file (type jpg)
  <use img/spam6.jpg>
-Package pdftex.def Info: img/spam6.jpg used on input line 112.
+Package pdftex.def Info: img/spam6.jpg used on input line 144.
 (pdftex.def)             Requested size: 65.03773pt x 65.03773pt.
 
-<img/spam7.jpg, id=18, 642.4pt x 642.4pt>
+<img/spam7.jpg, id=24, 642.4pt x 642.4pt>
 File: img/spam7.jpg Graphic file (type jpg)
  <use img/spam7.jpg>
-Package pdftex.def Info: img/spam7.jpg used on input line 113.
+Package pdftex.def Info: img/spam7.jpg used on input line 145.
 (pdftex.def)             Requested size: 65.03773pt x 65.03773pt.
 
-<img/spam8.jpg, id=19, 642.4pt x 642.4pt>
+<img/spam8.jpg, id=25, 642.4pt x 642.4pt>
 File: img/spam8.jpg Graphic file (type jpg)
  <use img/spam8.jpg>
-Package pdftex.def Info: img/spam8.jpg used on input line 114.
+Package pdftex.def Info: img/spam8.jpg used on input line 146.
 (pdftex.def)             Requested size: 65.03773pt x 65.03773pt.
 
-<img/spam9.jpg, id=20, 642.4pt x 642.4pt>
+<img/spam9.jpg, id=26, 642.4pt x 642.4pt>
 File: img/spam9.jpg Graphic file (type jpg)
  <use img/spam9.jpg>
-Package pdftex.def Info: img/spam9.jpg used on input line 115.
+Package pdftex.def Info: img/spam9.jpg used on input line 147.
 (pdftex.def)             Requested size: 65.03773pt x 65.03773pt.
- [2 <./img/spam1.jpg> <./img/spam2.jpg> <./img/spam3.jpg> <./img/spam4.jpg> <./
-img/spam5.jpg> <./img/spam6.jpg> <./img/spam7.jpg> <./img/spam8.jpg> <./img/spa
-m9.jpg>]
-<img/speedup1.pdf, id=24, 666.49pt x 407.5225pt>
+
+Underfull \vbox (badness 1418) has occurred while \output is active []
+
+ [3 <./img/classify.jpg> <./img/spam1.jpg> <./img/spam2.jpg> <./img/spam3.jpg> 
+<./img/spam4.jpg> <./img/spam5.jpg> <./img/spam6.jpg> <./img/spam7.jpg> <./img/
+spam8.jpg> <./img/spam9.jpg>] <img/speedup1.pdf, id=30, 666.49pt x 407.5225pt>
 File: img/speedup1.pdf Graphic file (type pdf)
- <use img/speedup1.pdf>
-Package pdftex.def Info: img/speedup1.pdf used on input line 146.
+
+<use img/speedup1.pdf>
+Package pdftex.def Info: img/speedup1.pdf used on input line 178.
 (pdftex.def)             Requested size: 253.5pt x 154.99695pt.
 
 
-LaTeX Warning: Reference `fig:scaleup1' on page 3 undefined on input line 153.
+LaTeX Warning: Reference `fig:scaleup1' on page 4 undefined on input line 185.
 
-<img/scaleup1.pdf, id=25, 666.49pt x 407.5225pt>
+<img/scaleup1.pdf, id=31, 666.49pt x 407.5225pt>
 File: img/scaleup1.pdf Graphic file (type pdf)
  <use img/scaleup1.pdf>
-Package pdftex.def Info: img/scaleup1.pdf used on input line 157.
+Package pdftex.def Info: img/scaleup1.pdf used on input line 189.
 (pdftex.def)             Requested size: 253.5pt x 154.99695pt.
 
+[4]
 
-LaTeX Warning: Reference `fig:sizeup1' on page 3 undefined on input line 164.
+LaTeX Warning: Reference `fig:sizeup1' on page 5 undefined on input line 196.
 
-<img/sizeup1.pdf, id=26, 666.49pt x 407.5225pt>
+<img/sizeup1.pdf, id=36, 666.49pt x 407.5225pt>
 File: img/sizeup1.pdf Graphic file (type pdf)
  <use img/sizeup1.pdf>
-Package pdftex.def Info: img/sizeup1.pdf used on input line 168.
+Package pdftex.def Info: img/sizeup1.pdf used on input line 200.
 (pdftex.def)             Requested size: 253.5pt x 154.99695pt.
- [3]
-[4 <./img/speedup1.pdf> <./img/scaleup1.pdf>] (./mtap2017.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 9.
-
-) [5 <./img/sizeup1.pdf>] (./mtap2017.aux)
+ [5 <./img/speedup1.pdf> <./img/scaleup1.pdf>] (./mtap2017.bbl
+Missing character: There is no Ã in font cmr8!
+Missing character: There is no © in font cmr8!
+ [6 <./img/sizeup1.pdf>])
+[7] (./mtap2017.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -399,13 +438,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3452 strings out of 493089
- 55411 string characters out of 6134842
- 113803 words of memory out of 5000000
- 6906 multiletter control sequences out of 15000+600000
- 9480 words of font info for 33 fonts, out of 8000000 for 9000
+ 3473 strings out of 493089
+ 55725 string characters out of 6134842
+ 113893 words of memory out of 5000000
+ 6923 multiletter control sequences out of 15000+600000
+ 9832 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,7n,42p,782b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,7n,42p,782b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
@@ -413,11 +452,12 @@ b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on mtap2017.pdf (5 pages, 790764 bytes).
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on mtap2017.pdf (7 pages, 912854 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
